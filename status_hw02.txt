@@ -1,0 +1,43 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Abby Carr
+
+2. What hostname did you deploy to?
+clipturtle.com
+
+3. What's the link to your repository on github with your code?
+
+
+4. How many HTML / CSS tutorial exercises did you do?
+All of them
+
+5. How comfortable do you feel with HTML and CSS now?
+Quite Comfortable
+
+6. How many JS tutorial exercises did you do?
+All of them
+
+7. How comfortable do you feel with JS now?
+Okay/Not super confident
+
+8. Do all of your HTML pages pass the W3C HTML validator?
+(https://validator.w3.org/)
+Not initially, all errors fixed for turn in
+
+9. Which parts of this assignment did you have trouble with, if any?
+Deploying the sites- Nginx and hosting a website properly
+Took me a really long time to figure out how to link to the animal/calculator
+	pages without creating a new subdomain
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
